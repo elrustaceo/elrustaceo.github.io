@@ -16,6 +16,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
+  - {name: 'Links', link: '/links'}
   - {name: 'Acerca de', link: '/about'}
   - {name: 'Contacto', link: '/contacto'}
 
@@ -43,6 +44,7 @@ highlighter: rouge # or pygments or null
 exclude:
   - README.md
   - node_modules
+  - old_posts
   - script
   - package.json
   - package-lock.json
