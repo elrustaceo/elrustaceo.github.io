@@ -191,3 +191,11 @@ The theme is setup just like a normal Jekyll site! Check out [file structure ove
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT)
+
+
+### Notes:
+
+To push to the repo:
+``` sh
+$ git config core.sshCommand "ssh -i ~/.ssh/id_es25519" && git push
+```
